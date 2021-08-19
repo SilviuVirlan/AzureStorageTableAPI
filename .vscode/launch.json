@@ -7,7 +7,6 @@
             "type": "al",
             "environmentType": "Sandbox",
             "environmentName": "sandbox",
-            "tenant": "CRMbc691816.onmicrosoft.com",
             "startupObjectId": 50261,
             "startupObjectType": "Page",
             "breakOnError": true,

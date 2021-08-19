@@ -1,0 +1,26 @@
+{
+  "id": "82600681-076f-43bf-b08c-efe643398b28",
+  "name": "AzureStorage_Tables",
+  "publisher": "Silviu Virlan",
+  "version": "1.0.1.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50260,
+      "to": 50269
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://AzureStorage_Tables.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0"
+}
