@@ -1,0 +1,2 @@
+GET https://svflorida.table.core.windows.net/Vendor?sv=2020-08-04&ss=bfqt&srt=sco&sp=rwdlacuptfx&se=2021-12-05T01:37:03Z&st=2021-08-18T16:37:03Z&spr=https&sig=Dk7Z71UGCzg8XucBBu9jOZy3FWLU1nO3VzFKA3Rgq0w%3D
+Accept: application/json
